@@ -10,20 +10,20 @@ const defaultOwner = '917849917350';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
-const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '917849917350' ; // put your number here
+const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '252907171690' ; // put your number here
 
 const ownerlist = ownervb.split(';');
 
-global.owner = [];
+global.owner = [➲𝗞𝗛𝗔𝗔𝗟𝗜𝗗𝗨⟹K͙O͙L͙A͙B͙A͙R͙I];
 for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
 global.botname = process.env.BOTNAME || 'TOHID-AI';
-global.pairingNumber = process.env.BOT_NUMBER || '918930358452' ;  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || '' ;  // put your session id here
+global.pairingNumber = process.env.BOT_NUMBER || '252907171690' ;  // put your number here
+global.SESSION_ID = process.env.SESSION_ID || 'tOF3XR7a#FpHobl8YjLmAWUyndCtgjJz--CwVLS_5MVbx0kMDtUk' ;  // put your session id here
 
-global.mods = []
+global.mods = [private]
 global.prems = []
 global.allowed = ['917849917350', '918930358452']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -85,7 +85,7 @@ global.tohidImg = [imagen1, imagen2]
 
 // Sticker WM
 global.premium = 'true'
-global.packname = 'TOHID-AI'
+global.packname = '➲𝗞𝗛𝗔𝗔𝗟𝗜𝗗𝗨⟹K͙O͙L͙A͙B͙A͙R͙I'
 global.author = 'Tohidkhan6332'
 global.menuvid = 'https://i.imgur.com/2Sp3cqD.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/Tohidkhan6332'
